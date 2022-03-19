@@ -1,0 +1,5 @@
+빌드 및 실행
+- ./gradlew build : 프로젝트 빌드
+- ./gradlew clean : 빌드 파일 삭제
+- ./gradlew clean build : 재빌드
+- 실행 = build/libs에 있는 jar 파일 실행 -> 배포도 동일
